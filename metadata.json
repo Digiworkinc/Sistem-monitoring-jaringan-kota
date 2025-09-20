@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Monitoring Jaringan",
+  "description": "Aplikasi web untuk memantau status semua sistem yang mengakses laman ini secara real-time. Menampilkan status koneksi, lokasi, dan detail sistem dalam antarmuka yang bersih dan modern.",
+  "requestFramePermissions": []
+}
